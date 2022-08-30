@@ -1,0 +1,25 @@
+@page
+@model ProyectoCiclo3.App.Frontend.Pages.FormEstacionesModel
+@{
+}
+ 
+<div class="text-center">
+    <form method="POST">
+        <label for="nombre" class="form-label">Nombre:</label>
+        <input type="text" class="form-control" id="nombre" name="nombre" required placeholder="Nombre">
+        <label for="direccion" class="form-label">Direccion:</label>
+        <input type="text" class="form-control" id="direccion" name="direccion" required placeholder="Direccion">
+        <label for="coord_x" class="form-label">Coordenada X:</label>
+        <input type="number" class="form-control" id="coord_x" name="coord_x" required placeholder="Coordenada X">
+        <label for="coord_y" class="form-label">Coordenada Y:</label>
+        <input type="number" class="form-control" id="coord_y" name="coord_y" required placeholder="Coordenada Y">
+        <label for="tipo">Tipo:</label>
+        <select name="tipo" id="tipo" class="form-control">
+            <option value="">Seleccione el Tipo</option>
+            <option value="Principal">Principal</option>
+            <option value="Segundaria">Segundaria</option>
+        </select>
+        <hr>
+        <button type="submit" class="btn btn-success">Enviar</button>
+    </form>
+</div>
