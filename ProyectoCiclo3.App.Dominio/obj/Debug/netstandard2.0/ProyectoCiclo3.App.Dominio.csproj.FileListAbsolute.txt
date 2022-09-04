@@ -1,0 +1,9 @@
+C:\Users\Anderson\Desktop\Proyecto ciclo 3 Grupo 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.deps.json
+C:\Users\Anderson\Desktop\Proyecto ciclo 3 Grupo 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.dll
+C:\Users\Anderson\Desktop\Proyecto ciclo 3 Grupo 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.pdb
+C:\Users\Anderson\Desktop\Proyecto ciclo 3 Grupo 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Anderson\Desktop\Proyecto ciclo 3 Grupo 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\Proyecto ciclo 3 Grupo 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\Proyecto ciclo 3 Grupo 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Proyecto ciclo 3 Grupo 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.dll
+C:\Users\Anderson\Desktop\Proyecto ciclo 3 Grupo 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.pdb

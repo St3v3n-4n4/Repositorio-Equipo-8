@@ -1,0 +1,14 @@
+@page
+@model ProyectoCiclo3.App.Frontend.Pages.DetailsEstacionModel
+@{
+    var estacion = Model.Estacion;
+}
+ 
+<ul class="list-group list-group-flush">
+  <li class="list-group-item"> <b>id: </b> @estacion.id</li>
+  <li class="list-group-item"> <b>Nombre: </b> @estacion.nombre</li>
+  <li class="list-group-item"> <b>Direccion: </b> @estacion.direccion</li>
+  <li class="list-group-item"><b>Coordenada X: </b> @estacion.coord_x</li>
+  <li class="list-group-item"><b>Coordenada Y: </b> @estacion.coord_y</li>
+  <li class="list-group-item"><b>Tipo: </b> @estacion.tipo</li>
+</ul>  
