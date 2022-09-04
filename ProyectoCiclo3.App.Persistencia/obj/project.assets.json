@@ -7268,11 +7268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\Proyecto ciclo 3 Grupo 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
       "projectName": "ProyectoCiclo3.App.Persistencia",
-      "projectPath": "C:\\Users\\Anderson\\Desktop\\Proyecto ciclo 3 Grupo 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+      "projectPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anderson\\Desktop\\Proyecto ciclo 3 Grupo 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\obj\\",
+      "outputPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7286,8 +7286,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\Anderson\\Desktop\\Proyecto ciclo 3 Grupo 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Anderson\\Desktop\\Proyecto ciclo 3 Grupo 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
+            "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
             }
           }
         }
