@@ -10,3 +10,15 @@ C:\Users\Anderson\Desktop\Proyecto ciclo 3 Grupo 8\Repositorio-Equipo-8\Proyecto
 C:\Users\Anderson\Desktop\Proyecto ciclo 3 Grupo 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
 C:\Users\Anderson\Desktop\Proyecto ciclo 3 Grupo 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
 C:\Users\Anderson\Desktop\Proyecto ciclo 3 Grupo 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.deps.json
+C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.dll
+C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.pdb
+C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
+C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb

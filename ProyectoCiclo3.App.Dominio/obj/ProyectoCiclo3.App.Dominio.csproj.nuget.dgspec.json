@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anderson\\Desktop\\Proyecto ciclo 3 Grupo 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {}
+    "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anderson\\Desktop\\Proyecto ciclo 3 Grupo 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+    "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\Proyecto ciclo 3 Grupo 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
         "projectName": "ProyectoCiclo3.App.Dominio",
-        "projectPath": "C:\\Users\\Anderson\\Desktop\\Proyecto ciclo 3 Grupo 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "projectPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anderson\\Desktop\\Proyecto ciclo 3 Grupo 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"
