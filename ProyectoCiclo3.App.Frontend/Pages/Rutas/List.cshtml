@@ -1,0 +1,33 @@
+@page
+@model ProyectoCiclo3.App.Frontend.Pages.ListRutasModel
+@{
+}
+ 
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Origen</th>
+      <th scope="col">Destino</th>
+      <th scope="col">Tiempo Estimado</th>
+      <th scope="col">Acciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var rutas in Model.Rutas)
+    {
+        <tr>
+            <td>@rutas.id</td>
+            <td>@rutas.origen</td>
+            <td>@rutas.destino</td>
+            <td>@rutas.tiempo_estimado</td>
+            <td>
+              <a class="btn btn-info" asp-page="./Details" asp-route-rutasId="@rutas.id"><i class="fas fa-adjust"></i>Ver</a>
+              <a class="btn btn-info" asp-page="./Edit" asp-route-rutasId="@rutas.id">Editar</a>
+              <a class="btn btn-danger" href="">Eliminar</a>
+            </td>
+        </tr>
+    }
+ 
+  </tbody>
+</table>
