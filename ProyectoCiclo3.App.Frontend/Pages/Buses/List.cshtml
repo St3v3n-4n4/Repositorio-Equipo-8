@@ -1,0 +1,37 @@
+@page
+@model ProyectoCiclo3.App.Frontend.Pages.ListBusesModel
+@{
+}
+ 
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Marca</th>
+      <th scope="col">Modelo</th>
+      <th scope="col">Kilometraje</th>
+      <th scope="col">Num Asientos</th>
+      <th scope="col">Placa</th>
+      <th scope="col">Acciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var buses in Model.Buses)
+    {
+        <tr>
+            <td>@buses.id</td>
+            <td>@buses.marca</td>
+            <td>@buses.modelo</td>
+            <td>@buses.kilometraje</td>
+            <td>@buses.numero_de_asientos</td>
+            <td>@buses.placa</td>
+            <td>
+              <a class="btn btn-info" asp-page="./Details" asp-route-busesId="@buses.id"><i class="fas fa-adjust"></i>Ver</a>
+              <a class="btn btn-info" asp-page="./Edit" asp-route-busesId="@buses.id">Editar</a>
+              <a class="btn btn-danger" href="">Eliminar</a>
+            </td>
+        </tr>
+    }
+ 
+  </tbody>
+</table>
