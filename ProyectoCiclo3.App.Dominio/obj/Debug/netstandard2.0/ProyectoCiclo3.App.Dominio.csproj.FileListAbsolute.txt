@@ -16,3 +16,12 @@ C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Domin
 C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.dll
 C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.pdb
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.deps.json
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.dll
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.pdb
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.csprojAssemblyReference.cache
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.AssemblyInfoInputs.cache
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.AssemblyInfo.cs
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.csproj.CoreCompileInputs.cache
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.dll
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.pdb
