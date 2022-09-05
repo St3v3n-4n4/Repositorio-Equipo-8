@@ -1,6 +1,7 @@
 # Proyecto `Gestion de Buses`
 ![C#](https://img.shields.io/badge/Lenguaje-C_Sharp-B200FF?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=000000&?logoWidth=60)
-![SQL](https://img.shields.io/badge/Framework-.NET-00E0FF?style=for-the-badge&logo=.NET&logoColor=white&labelColor=000000&?logoWidth=60)
+![.NET](https://img.shields.io/badge/Framework-.NET-00E0FF?style=for-the-badge&logo=.NET&logoColor=white&labelColor=000000&?logoWidth=60)
+![HTML](https://img.shields.io/badge/Lenguaje_de_Marcado-html-00FF80?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=000000&?logoWidth=60)
 
 ## Software para la Gestion de Buses
 
