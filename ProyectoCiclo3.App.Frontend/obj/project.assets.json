@@ -5737,19 +5737,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Anderson\\.nuget\\packages\\": {}
+    "C:\\Users\\saibo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+      "projectUniqueName": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
       "projectName": "ProyectoCiclo3.App.Frontend",
-      "projectPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
-      "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Frontend\\obj\\",
+      "projectPath": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+      "packagesPath": "C:\\Users\\saibo\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\saibo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5760,8 +5760,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
+            "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+              "projectPath": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
             }
           }
         }

@@ -5,6 +5,7 @@ namespace ProyectoCiclo3.App.Persistencia
 {
     public class AppContext: DbContext{
         public DbSet<Estaciones> Estaciones { get; set; }
+        public DbSet<Buses> Buses { get; set; }
         public DbSet<Rutas> Rutas { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
