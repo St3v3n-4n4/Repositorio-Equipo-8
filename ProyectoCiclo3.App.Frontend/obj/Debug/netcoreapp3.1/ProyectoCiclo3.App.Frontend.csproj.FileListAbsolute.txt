@@ -289,3 +289,9 @@ D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Frontend\obj\De
 D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.dll
 D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.pdb
 D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.genruntimeconfig.cache
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Buses\Create.cshtml.g.cs
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Buses\Details.cshtml.g.cs
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Buses\List.cshtml.g.cs
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Rutas\Create.cshtml.g.cs
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Rutas\Details.cshtml.g.cs
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Rutas\List.cshtml.g.cs
