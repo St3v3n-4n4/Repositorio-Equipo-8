@@ -22,3 +22,15 @@ C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persi
 C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
 C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
 C:\Users\Anderson\Desktop\EQUIPO 8\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.deps.json
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.dll
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.pdb
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csprojAssemblyReference.cache
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfoInputs.cache
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfo.cs
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+D:\GitHub_St3v3n-4n4\Git\Repositorio-Equipo-8\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
