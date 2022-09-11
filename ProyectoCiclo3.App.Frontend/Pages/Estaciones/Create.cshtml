@@ -4,17 +4,18 @@
 }
  
 <div class="text-center">
-    <form method="POST">
-        <label for="nombre" class="form-label">Nombre:</label>
-        <input type="text" class="form-control" id="nombre" name="nombre" required placeholder="Nombre">
+    <form method = "POST">
+        <label for="nombre" class = "form-label">Nombre:</label>
+        <input type="text" class="form-control" required placeholder="Nombre" minlength="3" asp-for="Estacion.nombre">
+        <span class="text-danger" asp-validation-for="Estacion.nombre"></span> <br>
         <label for="direccion" class="form-label">Direccion:</label>
-        <input type="text" class="form-control" id="direccion" name="direccion" required placeholder="Direccion">
+        <input type="text" class="form-control" required placeholder="Direccion" asp-for="Estacion.direccion">
         <label for="coord_x" class="form-label">Coordenada X:</label>
-        <input type="number" class="form-control" id="coord_x" name="coord_x" required placeholder="Coordenada X">
+        <input type="number" class="form-control" required placeholder="Coordenada X" asp-for="Estacion.coord_x" step="any">
         <label for="coord_y" class="form-label">Coordenada Y:</label>
-        <input type="number" class="form-control" id="coord_y" name="coord_y" required placeholder="Coordenada Y">
+        <input type="number" class="form-control" required placeholder="Coordenada Y" asp-for="Estacion.coord_y" step="any">
         <label for="tipo">Tipo:</label>
-        <select name="tipo" id="tipo" class="form-control">
+        <select class="form-control" asp-for="Estacion.tipo">
             <option value="">Seleccione el Tipo</option>
             <option value="Principal">Principal</option>
             <option value="Segundaria">Segundaria</option>
