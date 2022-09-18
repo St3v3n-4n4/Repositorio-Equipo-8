@@ -1,30 +1,21 @@
 @page
-@model ProyectoCiclo3.App.Frontend.Pages.FormRutaModel
+@model ProyectoCiclo3.App.Frontend.Pages.FormBusesModel
 @{
 }
-
+ 
 <div class="text-center">
-  <form method="POST">
-    <label for="origen" class="form-label">Origen:</label>
-    <select name="origen" class="form-control" required>
-      <option value="">Selecciona el origen</option>
-      @foreach (var estacion in Model.Estaciones)
-      {
-        <option value="@estacion.id">@estacion.nombre</option>
-      }
-    </select>
-    <label for="destino" class="form-label">Destino:</label>
-    <select name="destino" class="form-control" required asp-for="Ruta.destino">
-      <option value="">Selecciona el destino</option>
-      @foreach (var estacion in Model.Estaciones)
-      {
-        <option value="@estacion.id">@estacion.nombre</option>
-      }
-    </select>
-    <span class="text-danger" asp-validation-for="Ruta.destino"></span> <br>
-    <label for="tiempo_estimado" class="form-label">Tiempo Estimado:</label>
-    <input type="number" class="form-control" placeholder="Tiempo Estimado" required name="tiempo_estimado">
-    <hr>
-    <button type="submit" class="btn btn-success">Enviar</button>
-  </form>
+    <form method="POST">
+        <label for="marca" class="form-label">Marca:</label>
+        <input type="text" class="form-control" id="marca" name="marca" required placeholder="Marca">
+        <label for="modelo" class="form-label">Modelo:</label>
+        <input type="number" class="form-control" id="modelo" name="modelo" required placeholder="Modelo">
+        <label for="kilometraje" class="form-label">Kilometraje:</label>
+        <input type="number" class="form-control" id="kilometraje" name="kilometraje" required placeholder="Kilometraje">
+        <label for="numero_de_asientos" class="form-label">Num Asientos:</label>
+        <input type="number" class="form-control" id="numero_de_asientos" name="numero_de_asientos" required placeholder="Num Asientos">
+        <label for="placa" class="form-label">Placa:</label>
+        <input type="text" class="form-control" id="placa" name="placa" required placeholder="Placa">
+        <hr>
+        <button type="submit" class="btn btn-success">Enviar</button>
+    </form>
 </div>
