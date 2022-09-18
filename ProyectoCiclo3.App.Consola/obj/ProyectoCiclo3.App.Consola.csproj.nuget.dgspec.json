@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj": {}
+    "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj": {}
   },
   "projects": {
-    "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj": {
+    "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+        "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
         "projectName": "ProyectoCiclo3.App.Consola",
-        "projectPath": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
-        "packagesPath": "C:\\Users\\saibo\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Consola\\obj\\",
+        "projectPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+        "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\saibo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
-                "projectPath": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
+              "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
               }
             }
           }
@@ -80,17 +80,17 @@
         }
       }
     },
-    "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+    "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
         "projectName": "ProyectoCiclo3.App.Dominio",
-        "projectPath": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\saibo\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\saibo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -117,6 +117,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -133,17 +137,17 @@
         }
       }
     },
-    "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+    "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
         "projectName": "ProyectoCiclo3.App.Persistencia",
-        "projectPath": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\saibo\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\saibo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -154,8 +158,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
-                "projectPath": "D:\\GitHub_St3v3n-4n4\\Git\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
+              "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Anderson\\Desktop\\EQUIPO 8\\Repositorio-Equipo-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
               }
             }
           }

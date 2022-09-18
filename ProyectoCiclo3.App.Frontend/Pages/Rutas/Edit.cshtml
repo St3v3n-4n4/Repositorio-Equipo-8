@@ -1,12 +1,15 @@
 @page
-@model ProyectoCiclo3.App.Frontend.Pages.FormRutaModel
+@model ProyectoCiclo3.App.Frontend.Pages.EditRutaModel
 @{
+    var ruta = Model.Ruta;
 }
 
 <div class="text-center">
   <form method="POST">
+    <input type="number" class="form-control d-none" id="id" name="id" placeholder="id" asp-for="@ruta.id" readonly>
+
     <label for="origen" class="form-label">Origen:</label>
-    <select name="origen" class="form-control" required>
+    <select name="origen" class="form-control" required asp-for="@ruta.origen.id">
       <option value="">Selecciona el origen</option>
       @foreach (var estacion in Model.Estaciones)
       {
@@ -14,17 +17,16 @@
       }
     </select>
     <label for="destino" class="form-label">Destino:</label>
-    <select name="destino" class="form-control" required asp-for="Ruta.destino">
+    <select name="destino" class="form-control" required asp-for="@ruta.destino.id">
       <option value="">Selecciona el destino</option>
       @foreach (var estacion in Model.Estaciones)
       {
         <option value="@estacion.id">@estacion.nombre</option>
       }
     </select>
-    <span class="text-danger" asp-validation-for="Ruta.destino"></span> <br>
     <label for="tiempo_estimado" class="form-label">Tiempo Estimado:</label>
-    <input type="number" class="form-control" placeholder="Tiempo Estimado" required name="tiempo_estimado">
+    <input type="number" class="form-control" placeholder="Tiempo Estimado" required name="tiempo_estimado" asp-for="@ruta.tiempo_estimado">
     <hr>
-    <button type="submit" class="btn btn-success">Enviar</button>
+    <button type="submit" class="btn btn-success">Actualizar</button>
   </form>
 </div>

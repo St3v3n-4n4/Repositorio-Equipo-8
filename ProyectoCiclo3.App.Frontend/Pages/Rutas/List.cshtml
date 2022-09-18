@@ -1,33 +1,48 @@
 @page
-@model ProyectoCiclo3.App.Frontend.Pages.ListRutasModel
+@model ProyectoCiclo3.App.Frontend.Pages.ListRutaModel
 @{
 }
- 
-<table class="table table-hover">
-  <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">Origen</th>
-      <th scope="col">Destino</th>
-      <th scope="col">Tiempo Estimado</th>
-      <th scope="col">Acciones</th>
-    </tr>
-  </thead>
-  <tbody>
-    @foreach (var rutas in Model.Rutas)
+
+<h1>Listado de Rutas</h1>
+<table class="table">
+    
+    @foreach (var ruta in Model.Rutas)
     {
         <tr>
-            <td>@rutas.id</td>
-            <td>@rutas.origen</td>
-            <td>@rutas.destino</td>
-            <td>@rutas.tiempo_estimado</td>
+            <td>@ruta.id</td>
+            <td>@ruta.origen.nombre</td>
+            <td>@ruta.destino.nombre</td>
+            <td>@ruta.tiempo_estimado</td>
+
             <td>
-              <a class="btn btn-info" asp-page="./Details" asp-route-rutasId="@rutas.id"><i class="fas fa-adjust"></i>Ver</a>
-              <a class="btn btn-info" asp-page="./Edit" asp-route-rutasId="@rutas.id">Editar</a>
-              <a class="btn btn-danger" href="">Eliminar</a>
-            </td>
+              <a class="btn btn-info" asp-page="./Details" asp-route-rutaId="@ruta.id"><i class="fas fa-adjust"></i>Ver</a>
+              <a class="btn btn-info" asp-page="./Edit" asp-route-rutaId="@ruta.id">Editar</a>
+             <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#exampleModal_@ruta.id">
+                Eliminar
+              </button>
+              <div class="modal fade" id="exampleModal_@ruta.id" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Eliminacion de registro</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                  </div>
+                  <div class="modal-body">
+                    Esta seguro que desea eliminar la Ruta: <b>@ruta.origen.nombre - @ruta.destino.nombre</b>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+                    <form method="POST">
+                      <input type="number" class="form-control d-none" id="id" name="id" placeholder="id" asp-for="@ruta.id">
+                      <button type="submit"class="btn btn-danger">Eliminar</button>
+                    </form>
+                    </div>
+                </div>
+              </div>
+            </div>
+              </td>
         </tr>
     }
- 
-  </tbody>
 </table>
