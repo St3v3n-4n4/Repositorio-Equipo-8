@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-page="/Index">BusExpress</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -19,29 +19,29 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Estaciones/Create">Crear Estaciones</a>
+                            <a class="nav-link text-white" asp-area="" asp-page="/Estaciones/Create">Crear Estaciones</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Estaciones/List">Listar Estaciones</a>
+                            <a class="nav-link text-white" asp-area="" asp-page="/Estaciones/List">Listar Estaciones</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Buses/Create">Crear Buses</a>
+                            <a class="nav-link text-white" asp-area="" asp-page="/Buses/Create">Crear Buses</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Buses/List">Listar Buses</a>
+                            <a class="nav-link text-white" asp-area="" asp-page="/Buses/List">Listar Buses</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Rutas/Create">Crear Rutas</a>
+                            <a class="nav-link text-white" asp-area="" asp-page="/Rutas/Create">Crear Rutas</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Rutas/List">Listar Rutas</a>
+                            <a class="nav-link text-white" asp-area="" asp-page="/Rutas/List">Listar Rutas</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
-    <div class="container">
+    <div class="container-fluid">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>

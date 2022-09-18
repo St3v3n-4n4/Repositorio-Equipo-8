@@ -1,10 +1,39 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "BusExpress";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <img src="https://blogapi.uber.com/wp-content/uploads/2017/11/Cover-Pic-1-1.gif">
+
+<div class="row">
+    <img src="~/img/imagen_Bus_welcom.jpg" class="img-fluid" />
+    <div class="welcom">
+        <h1 class="text-1-welcom">Welcome</h1>
+    </div>
 </div>
+
+<style>
+
+    
+
+    .row{
+        position: relative;
+        transform: translate(-0%,-2%);
+        display: inline-block;
+        text-align: center;
+    }
+
+    .welcom{
+        position: absolute;
+        top: 11%;
+        left: 50%;
+        transform: translate(-50%,-89%);
+    }
+
+    .text-1-welcom{
+        text-align: center;
+        color: #FFFFFF;
+        font-family: 'Fjalla One', sans-serif;
+        font-size: 100px;
+    }
+</style>
