@@ -1,37 +1,56 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "BusExpress";
+    ViewData["Title"] = "HOME";
 }
 
 
 <div class="welcom_1">
     <img src="~/img/imagen_Bus_welcom.jpg" class="img-fluid" />
     <div class="welcom">
-        <h1 class="text-1-welcom">Welcome</h1>
+        <div class="containerr">
+            <div class="card">
+                <div class="content">
+                    <h2>Welcome</h2>
+                    <h3>BusExpress</h3>
+                </div>
+            </div>
+        </div>
+        
     </div>
 </div>
 
-<style>
+<div class="subtitle">
+    <h2>Empresa de Gestion de Buses</h2>
+</div>
 
-    .welcom_1{
-        position: relative;
-        transform: translate(-0%,-2%);
-        display: inline-block;
-        text-align: center;
-    }
 
-    .welcom{
-        position: absolute;
-        top: 11%;
-        left: 50%;
-        transform: translate(-50%,-89%);
-    }
+<div class="grid">
+    <div class="containerr">
+    <div class="card_grid">
+        <div class="content_grid">
+            <h2>Estaciones</h2>
+            <h3>Administracion de las Estaciones de Buses</h3>
+        </div>
+    </div>
+    </div>
+    <div class="containerr">
+    <div class="card_grid">
+        <div class="content_grid">
+            <h2>Buses</h2>
+            <h3>Administracion de Buses que cuenta la Empresa</h3>
+        </div>
+    </div>
+    </div>
+    <div class="containerr">
+    <div class="card_grid">
+        <div class="content_grid">
+            <h2>Rutas</h2>
+            <h3>Administracion de Rutas Propuestas por la Empresa</h3>
+        </div>
+    </div>
+    </div>
+</div>
 
-    .text-1-welcom{
-        text-align: center;
-        color: #FFFFFF;
-        font-family: 'Fjalla One', sans-serif;
-        font-size: 100px;
-    }
-</style>
+
+
