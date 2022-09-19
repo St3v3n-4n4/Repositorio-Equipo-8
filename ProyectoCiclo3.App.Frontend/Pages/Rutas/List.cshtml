@@ -3,9 +3,18 @@
 @{
 }
 
-<h1>Listado de Rutas</h1>
+
 <table class="table">
-    
+    <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Origen</th>
+      <th scope="col">Destino</th>
+      <th scope="col">Tiempo Estimado</th>
+      <th scope="col">Acciones</th>
+    </tr>
+  </thead>
+  <tbody>
     @foreach (var ruta in Model.Rutas)
     {
         <tr>
@@ -45,4 +54,5 @@
               </td>
         </tr>
     }
+  </tbody>
 </table>

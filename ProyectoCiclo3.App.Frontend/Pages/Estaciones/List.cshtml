@@ -26,9 +26,9 @@
             <td>@estacion.coord_y</td>
             <td>@estacion.tipo</td>
             <td>
-              <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#exampleModal_@estacion.id">
-                Eliminar
-              </button>
+              <a class="btn btn-info" asp-page="./Details" asp-route-estacionId="@estacion.id"><i class="fas fa-adjust"></i>Ver</a>
+              <a class="btn btn-info" asp-page="./Edit" asp-route-estacionId="@estacion.id">Editar</a>
+              <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#exampleModal_@estacion.id">Eliminar</button>
               <div class="modal fade" id="exampleModal_@estacion.id" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
               <div class="modal-dialog" role="document">
                 <div class="modal-content">
