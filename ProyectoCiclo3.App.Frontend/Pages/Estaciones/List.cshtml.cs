@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using ProyectoCiclo3.App.Persistencia.AppRepositorios;
 using ProyectoCiclo3.App.Dominio;
+using Microsoft.Extensions.Logging;
  
 namespace ProyectoCiclo3.App.Frontend.Pages
 {
@@ -13,9 +14,9 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     {
        
         private readonly RepositorioEstaciones repositorioEstaciones;
-        public IEnumerable<Estaciones> Estaciones {get;set;}
         [BindProperty]
         public Estaciones Estacion {get;set;}
+        public IEnumerable<Estaciones> Estaciones {get;set;}
     
         public ListEstacionesModel(RepositorioEstaciones repositorioEstaciones)
         {
